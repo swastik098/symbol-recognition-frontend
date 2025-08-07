@@ -73,6 +73,7 @@ npm install
 npm start
 App will run on: http://localhost:3000
 
+###
 🔗 API Usage
 The backend proxies requests to:
 
